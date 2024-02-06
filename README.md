@@ -31,3 +31,6 @@ leetcode api:  [api](https://leetcode.com/api/problems/all/)
 >
 >2~4  使用`npm`下載    
 >推薦使用`vscode`執行
+
+**開啟 leet_code_api.js**  
+**其他都是範本**
