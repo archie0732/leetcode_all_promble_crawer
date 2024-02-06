@@ -21,9 +21,13 @@ leetcode api:  [api](https://leetcode.com/api/problems/all/)
 ### 使用
 
 >[!note]
-> ## 請確保卻已安裝以下插建
+>使用前
+> ## 請確保卻已安裝以下插件
 >1. node.js
 >2. xlsx
 >3. axios
 >4. fs
+>
+>
+>2~4  使用`npm`下載    
 >推薦使用`vscode`執行
